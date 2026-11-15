@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Abel!<br>I’m from the Netherlands and I’m interested in tech and audio stuff<br>I’m currently working on: My own website<br>I’m looking for help with: Learning as much as possible about tech<br>I’m currently learning: As much as I can about tech<br>Ask me about: Tech and audio stuff
+Hi, I’m Abel!<br>💬I’m from the Netherlands and I’m interested in tech and audio stuff<br>🔭I’m currently working on: My own website<br>🌱I’m currently learning: As much as I can about tech<br>🤔I’m looking for help with: Learning as much as possible about tech<br>📫Ask me about: Tech and audio stuff
 
 
 ## 🌐 Socials:
